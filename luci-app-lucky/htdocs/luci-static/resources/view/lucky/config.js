@@ -144,7 +144,7 @@ return view.extend({
                     E('span', {}, [
                         _('© github '),
                         E('a', { 
-                            'href': 'https://github.com/sirpdboy', 
+                            'href': 'https://github.com/XiaoHaiSly', 
                             'target': '_blank',
                             'style': 'text-decoration: none;'
                         }, 'by sirpdboy')
