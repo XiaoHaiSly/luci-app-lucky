@@ -147,7 +147,7 @@ return view.extend({
                             'href': 'https://github.com/XiaoHaiSly', 
                             'target': '_blank',
                             'style': 'text-decoration: none;'
-                        }, 'by sirpdboy')
+                        }, 'by XiaoHaiSly')
                     ])
                 ])
             ]);
